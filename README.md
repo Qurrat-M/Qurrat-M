@@ -1,13 +1,13 @@
 # Hi, I'm Qurratulain Mawani 👋
 
 Full Stack Software Engineer based in Karachi, Pakistan  
-Almost 3 years of experience building enterprise level web applications
+3+ years of experience building enterprise level web and mobile applications
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js · Next.js · TypeScript · TailwindCSS · Redux Toolkit  
+**Frontend:** React.js · Next.js · TypeScript · TailwindCSS · Redux Toolkit . Zustand
 **Backend:** Node.js · Express.js · REST APIs  
-**Database:** PostgreSQL · MongoDB  
+**Database:** PostgreSQL · MongoDB . MYSQL
 **Tools:** Git · Docker · CI/CD  
 **Security:** OWASP Top 10 · JWT · RBAC
 
@@ -15,7 +15,7 @@ Almost 3 years of experience building enterprise level web applications
 
 - **PSO BLUE** — Admin portal and customer web for Pakistan's largest oil company
 - **MUNTQ** — Enterprise procurement portal for Saudi client
-- **WasalHub** — Supplier invoicing platform for Omani client
+- **WaslHub** — Supplier invoicing platform for Omani client
 
 ## 📫 Connect
 
